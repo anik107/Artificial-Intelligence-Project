@@ -7,4 +7,6 @@ Below is a python snippet of Minimax algorithm implementation in Connect Four. I
 ![1_JKIe5NUgrZStu8sbgHHjog](https://user-images.githubusercontent.com/55916366/178103087-a71c1b6f-798d-4d2c-af53-7c60cf8c7c56.png)
 
 # Conclusions
-Looking at how many times AI has beaten human players in this game, I realized that it wins by rationality and loads of information. In this project, the AI player uses a minimax algorithm to check for optimal moves in advance to outperform human players by knowing all possible moves rationally. Interestingly, when tuning the number of depths at the minimax function from high (6 for example) to low (2 for example), the AI player may perform worse. Nevertheless, the strategy and algorithm applied in this project have been proved to be working and performing amazing results.
+Looking at how many times AI has beaten human players in this game, I realized that it wins by rationality and loads of information. In this project, the AI player uses a minimax algorithm to check for optimal moves in advance to outperform human players by knowing all possible moves rationally. Interestingly, when tuning the number of depths at the minimax function from high to low , the AI player may perform worse. Nevertheless, the strategy and algorithm applied in this project have been proved to be working and performing amazing results.
+
+![2022-07-02 (2)](https://user-images.githubusercontent.com/55916366/178103179-812faf56-8697-4d06-bbe9-0767a3bc5471.png)
